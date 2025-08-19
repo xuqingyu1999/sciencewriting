@@ -1,0 +1,6 @@
+openai==1.76.0
+streamlit_analytics2
+gspread
+oauth2client
+streamlit_javascript
+streamlit
