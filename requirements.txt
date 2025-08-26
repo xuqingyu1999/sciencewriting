@@ -6,3 +6,4 @@ streamlit_javascript
 streamlit
 scikit-learn
 pandas
+openpyxl
