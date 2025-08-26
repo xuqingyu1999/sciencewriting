@@ -4,3 +4,5 @@ gspread
 oauth2client
 streamlit_javascript
 streamlit
+scikit-learn
+pandas
